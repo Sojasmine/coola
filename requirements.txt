@@ -16,7 +16,7 @@ packages==0.1.0
 Pillow==9.0.1
 platformdirs==2.5.1
 PyGObject==3.36.0
-python-apt==2.0.0+ubuntu0.20.4.7
+python3-openid==3.2.0
 PyYAML==5.3.1
 requests==2.22.0
 requests-unixsocket==0.2.0
