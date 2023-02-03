@@ -6,7 +6,7 @@ chardet==3.0.4
 configobj==5.0.6
 dbus-python==1.2.16
 distlib==0.3.4
-Django==4.0.2
+Django==4.0.9
 dulwich==0.19.15
 fastimport==0.9.8
 filelock==3.6.0
